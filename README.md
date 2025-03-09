@@ -1,3 +1,21 @@
+#ADS RAM 1.0
+
+Fetch the latest changes from the original repository:
+```git fetch upstream```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # IDS RAM 4 #
 
 Welcome to the IDS RAM 4 repository of the [IDSA](../../../idsa).
