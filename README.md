@@ -10,10 +10,10 @@ Fetch the latest changes from the IDS original repository:
 
 The ADS RAM is referenced from the International Data Spaces Association Reference Architecture Model ([IDS RAM 4.0]([url](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0))). This model operates at a higher level of abstraction compared to standard architecture models used for specific software solutions. The IDS RAM emphasis on generalising concepts, functionalities, and the overall processes necessary for establishing a secure "network of trusted data."'
 
-The general outline of the IDS RAM is based on the five layers and the three perspectives. Each
-layer should reflect the main components and aspects of the IDS.
+The general outline of the IDS RAM is based on the five layers and the three perspectives. 
 
-The IDS-G contains specific details on specifications, e.g. APIs and their descriptions.
+![image](https://github.com/user-attachments/assets/93fd7588-1c37-4d60-9c1d-f15352f83339)
+
 
 ## Structure ##
 
