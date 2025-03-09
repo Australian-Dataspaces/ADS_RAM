@@ -6,26 +6,9 @@ Fetch the latest changes from the IDS original repository:
 ```git fetch upstream```
 
 
-
-
-## Overview ##
-
-Please consider the following information:
-
-- [Code of Conduct](./CODE_OF_CONDUCT.md),
-- [How to Contribute](./CONTRIBUTING.md),
-- [License](./LICENSE.md),
-- [Changelog](./CHANGELOG.md),
-
-and check the open [issues](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/issues)
-and [pull requests](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/pulls).
-
-The [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G) provides additional
-information to the IDS RAM.
-
 ## Scope ##
 
-The ADS RAM is referenced from the International Data Spaces Association Reference Architecture Model (IDS RAM). This model operates at a higher level of abstraction compared to standard architecture models used for specific software solutions. The IDS RAM emphasis on generalising concepts, functionalities, and the overall processes necessary for establishing a secure "network of trusted data."'
+The ADS RAM is referenced from the International Data Spaces Association Reference Architecture Model ([IDS RAM 4.0]([url](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0))). This model operates at a higher level of abstraction compared to standard architecture models used for specific software solutions. The IDS RAM emphasis on generalising concepts, functionalities, and the overall processes necessary for establishing a secure "network of trusted data."'
 
 The general outline of the IDS RAM is based on the five layers and the three perspectives. Each
 layer should reflect the main components and aspects of the IDS.
