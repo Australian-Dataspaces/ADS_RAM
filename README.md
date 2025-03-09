@@ -1,25 +1,12 @@
 # ADS RAM 1.0
+Welcome to the Australian Dataspaces Reference Architecture Model (ADS RAM) repository
 
-Fetch the latest changes from the original repository:
+Fetch the latest changes from the IDS original repository:
 
 ```git fetch upstream```
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# IDS RAM 4 #
-
-Welcome to the IDS RAM 4 repository of the [IDSA](../../../idsa).
 
 ## Overview ##
 
@@ -38,10 +25,6 @@ information to the IDS RAM.
 
 ## Scope ##
 
-The IDS RAM is complemented with additional documents and repositories. Most relevant in this
-context is the [IDS-G](https://github.com/International-Data-Spaces-Association/IDS-G).
-
-In general, the IDS RAM contains the conceptual level including technology-agnostic specifications.
 The general outline of the IDS RAM is based on the five layers and the three perspectives. Each
 layer should reflect the main components and aspects of the IDS.
 
