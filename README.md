@@ -25,6 +25,8 @@ information to the IDS RAM.
 
 ## Scope ##
 
+The ADS RAM is referenced from the International Data Spaces Association Reference Architecture Model (IDS RAM). This model operates at a higher level of abstraction compared to standard architecture models used for specific software solutions. The IDS RAM emphasis on generalising concepts, functionalities, and the overall processes necessary for establishing a secure "network of trusted data."'
+
 The general outline of the IDS RAM is based on the five layers and the three perspectives. Each
 layer should reflect the main components and aspects of the IDS.
 
