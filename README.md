@@ -49,12 +49,3 @@ The IDS-G contains specific details on specifications, e.g. APIs and their descr
 ### Appendix ###
 
 - [Glossary](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Glossary)
-
-## Previous Versions ##
-
-- [IDS-RAM 4.2 - current -](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/)
-- [IDS-RAM 4.1](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/releases/tag/v.4.1.2)
-- [IDS-RAM 4.0](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0/releases/tag/v.4.0.0)
-- [IDS RAM 3.0](https://internationaldataspaces.org/download/16630/)
-- [IDS RAM 2.0](https://internationaldataspaces.org/download/16641/)
-- [IDS RAM 1.0](https://internationaldataspaces.org/download/16652/)
